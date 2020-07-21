@@ -11,7 +11,7 @@ export default function Achievement() {
   }
   return (
     <Fade bottom duration={1000} distance="20px">
-    <div className="main" id="achievements">
+    {/* <div className="main" id="achievements">
       <div className="achievement-main-div">
         <div className="achievement-header">
           <h1 className="heading achievement-heading">{achievementSection.title}</h1>
@@ -31,8 +31,8 @@ export default function Achievement() {
             );
           })}
         </div>
-      </div>
-    </div>
+      </div> */}
+    {/* </div> */}
     </Fade>
   );
 }

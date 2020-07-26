@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e1cb492aa3aa4efda4d4509a7397f51",
+    "revision": "77e2ce2332c2b4adee6f93fd9907f009",
     "url": "/index.html"
   },
   {
-    "revision": "3efc380d92e4d590eaa1",
-    "url": "/static/css/3.cffc9e54.chunk.css"
+    "revision": "ceda9b1b70faecb1e656",
+    "url": "/static/css/3.48a93ee6.chunk.css"
   },
   {
-    "revision": "717981b5ac2f843faa5c",
-    "url": "/static/css/4.54df59d4.chunk.css"
+    "revision": "78cdcbd07f80a36cfe87",
+    "url": "/static/css/4.01c87591.chunk.css"
   },
   {
-    "revision": "1fb9ca2ef442a1ac068b",
-    "url": "/static/css/main.66ecd12b.chunk.css"
+    "revision": "173ae3ddc3f53245dc5e",
+    "url": "/static/css/main.5151b896.chunk.css"
   },
   {
-    "revision": "1649142b903f019f1421",
-    "url": "/static/js/2.739f5340.chunk.js"
+    "revision": "1a893e2439837c4766b6",
+    "url": "/static/js/2.d66d0485.chunk.js"
   },
   {
-    "revision": "3efc380d92e4d590eaa1",
-    "url": "/static/js/3.262811b4.chunk.js"
+    "revision": "ceda9b1b70faecb1e656",
+    "url": "/static/js/3.622cdd27.chunk.js"
   },
   {
-    "revision": "717981b5ac2f843faa5c",
-    "url": "/static/js/4.8f69499b.chunk.js"
+    "revision": "78cdcbd07f80a36cfe87",
+    "url": "/static/js/4.d746e119.chunk.js"
   },
   {
-    "revision": "1fb9ca2ef442a1ac068b",
-    "url": "/static/js/main.3ac11219.chunk.js"
+    "revision": "173ae3ddc3f53245dc5e",
+    "url": "/static/js/main.78073828.chunk.js"
   },
   {
-    "revision": "e323f4d2163987c4a471",
-    "url": "/static/js/runtime-main.50431189.js"
+    "revision": "28e60e25c6ce7b1b3ff8",
+    "url": "/static/js/runtime-main.62140b82.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -54,10 +54,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/static/media/developerActivity.59389695.svg"
-  },
-  {
-    "revision": "8ddf76a14a2e3ad3ba62b46d49a75a74",
-    "url": "/static/media/facebookLogo.8ddf76a1.png"
   },
   {
     "revision": "25bf045ca257e971124f3997d89f321c",
@@ -84,7 +80,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/skill.34409398.svg"
   },
   {
-    "revision": "0288c5ec7a87ea73f8d14b12fc4bc94e",
-    "url": "/static/media/talksCardBack.0288c5ec.svg"
+    "revision": "de3da8064f2e9ffab945772c2c67e46f",
+    "url": "/static/media/talksCardBack.de3da806.svg"
+  },
+  {
+    "revision": "39a73c4b2e4190c0004a977167d1b793",
+    "url": "/static/media/yandex.39a73c4b.svg"
   }
 ]);

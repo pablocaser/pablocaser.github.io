@@ -7,8 +7,8 @@ import emoji from "react-easy-emoji";
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  username: "Antonio Casero",
-  title: "Hi! I'm Antonio",
+  username: "Pablo Casero",
+  title: "Hi! I'm Pablo",
   subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Mobile applications with Swift / Flutter / Android / React Native / C++ and some other cool libraries and frameworks."),
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };
@@ -17,8 +17,8 @@ const greeting = {
 
 const socialMediaLinks = {
 
-  github: "https://github.com/antoniocasero",
-  linkedin: "https://www.linkedin.com/in/antoniocasero/",
+  github: "https://github.com/Pablocasero",
+  linkedin: "https://www.linkedin.com/in/Pablocasero/",
   gmail: "anto.casero@gmail.com",
   // Instagram and Twitter are also supported in the links!
 };
@@ -116,9 +116,9 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      role: "Master Data Science",
+      company: "Yandex",
+      companylogo: require("./assets/images/yandex.svg"),
       date: "June 2018 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
@@ -148,7 +148,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
-  githubUserName: "antoniocasero", // Change to your github username to view your profile in Contact Section.
+  githubUserName: "Pablocasero", // Change to your github username to view your profile in Contact Section.
   showGithubProfile: "true" // Set true or false to show Contact profile using Github, defaults to false 
 };
 
@@ -230,8 +230,7 @@ const contactInfo = {
 //Twitter Section
 
 const twitterDetails = {
-
   userName: "acaserop"//Replace "twitter" with your twitter username without @
 
 };
-export { greeting, socialMediaLinks, skillsSection, techStack, workExperiences, openSource, contactInfo , twitterDetails};
+export { greeting, socialMediaLinks, skillsSection, techStack, workExperiences, openSource, contactInfo, twitterDetails };

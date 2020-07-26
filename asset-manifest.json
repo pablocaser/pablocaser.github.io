@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.5151b896.chunk.css",
-    "main.js": "/static/js/main.a3a4b26c.chunk.js",
-    "main.js.map": "/static/js/main.a3a4b26c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.62140b82.js",
-    "runtime-main.js.map": "/static/js/runtime-main.62140b82.js.map",
-    "static/js/2.d66d0485.chunk.js": "/static/js/2.d66d0485.chunk.js",
-    "static/js/2.d66d0485.chunk.js.map": "/static/js/2.d66d0485.chunk.js.map",
+    "main.js": "/static/js/main.0345eb3c.chunk.js",
+    "main.js.map": "/static/js/main.0345eb3c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.79d46c55.js",
+    "runtime-main.js.map": "/static/js/runtime-main.79d46c55.js.map",
+    "static/js/2.08b84720.chunk.js": "/static/js/2.08b84720.chunk.js",
+    "static/js/2.08b84720.chunk.js.map": "/static/js/2.08b84720.chunk.js.map",
     "static/css/3.48a93ee6.chunk.css": "/static/css/3.48a93ee6.chunk.css",
-    "static/js/3.622cdd27.chunk.js": "/static/js/3.622cdd27.chunk.js",
-    "static/js/3.622cdd27.chunk.js.map": "/static/js/3.622cdd27.chunk.js.map",
+    "static/js/3.fe0ff3a2.chunk.js": "/static/js/3.fe0ff3a2.chunk.js",
+    "static/js/3.fe0ff3a2.chunk.js.map": "/static/js/3.fe0ff3a2.chunk.js.map",
     "static/css/4.01c87591.chunk.css": "/static/css/4.01c87591.chunk.css",
     "static/js/4.d746e119.chunk.js": "/static/js/4.d746e119.chunk.js",
     "static/js/4.d746e119.chunk.js.map": "/static/js/4.d746e119.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a2559053af173d288009f8fe4c79da40.js": "/precache-manifest.a2559053af173d288009f8fe4c79da40.js",
+    "precache-manifest.6aed12f14fd042969438887301d56cb1.js": "/precache-manifest.6aed12f14fd042969438887301d56cb1.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.48a93ee6.chunk.css.map": "/static/css/3.48a93ee6.chunk.css.map",
     "static/css/4.01c87591.chunk.css.map": "/static/css/4.01c87591.chunk.css.map",
@@ -33,9 +33,9 @@
     "static/media/yandex.svg": "/static/media/yandex.39a73c4b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.62140b82.js",
-    "static/js/2.d66d0485.chunk.js",
+    "static/js/runtime-main.79d46c55.js",
+    "static/js/2.08b84720.chunk.js",
     "static/css/main.5151b896.chunk.css",
-    "static/js/main.a3a4b26c.chunk.js"
+    "static/js/main.0345eb3c.chunk.js"
   ]
 }
